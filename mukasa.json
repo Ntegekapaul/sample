@@ -17,8 +17,20 @@
   ],
   "hubs": [
     {
+      "id": "448d41ca-449f-4930-b7fb-74ce64b93292",
+      "name": "GrainGold Milling Limited"
+    },
+    {
+      "id": "64be19f8-b122-49f3-9da3-06b5d1aea7d5",
+      "name": "East Lira Cooperative"
+    },
+    {
+      "id": "96dd283c-2e95-4ad9-8a9a-35c8a842a2ad",
+      "name": "Ishaka Coffee Cooperative"
+    },
+    {
       "id": "d4116ad2-7666-44f5-93ac-e00c4278b4c1",
-      "name": null
+      "name": "Lira Cooperative Union"
     }
   ]
 }
