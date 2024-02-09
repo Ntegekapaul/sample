@@ -1,0 +1,24 @@
+{
+  "userId": "813ed58a-aea9-44df-afa6-109e300ce11c",
+  "name": "Paul Ntegeka",
+  "email": "ntegeka.paul@gmail.com",
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6IkpXVCJ9.eyJzdWIiOiI4MTNlZDU4YS1hZWE5LTQ0ZGYtYWZhNi0xMDllMzAwY2UxMWMiLCJmdWxsbmFtZSI6IlBhdWwgTnRlZ2VrYSIsIkh1YklkIjoiZDQxMTZhZDItNzY2Ni00NGY1LTkzYWMtZTAwYzQyNzhiNGMxIiwibmJmIjoxNzA3NDYxMTM5LCJleHAiOjE3MDc1NDc1MzksImlhdCI6MTcwNzQ2MTEzOX0.z-j7HNk8KtbLtmbgaDyO2yrKWJkOsxd3JrNdNAfi2CI",
+  "expiresIn": 86400.0,
+  "userAccessRights": [],
+  "collectionCentres": [
+    {
+      "id": "6b44286d-9804-4aa6-9045-ffa5875413a4",
+      "name": "Lira Town Centre"
+    },
+    {
+      "id": "751aa56e-a2f6-44e3-ac6f-52d26d7dab5d",
+      "name": "Gulu Town Centre"
+    }
+  ],
+  "hubs": [
+    {
+      "id": "d4116ad2-7666-44f5-93ac-e00c4278b4c1",
+      "name": null
+    }
+  ]
+}
